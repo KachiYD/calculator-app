@@ -1,16 +1,16 @@
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: #ECE3CE;
 }
 
 
 .calculator {
-    background-color: #4F6F52;
+    background-color: #3A4D39;
     padding: 1em;
     border-radius: 2em;
     color: #ECE3CE;
     display: inline-block;
-    width: 30%;
-    margin: 5% 35%;
+    margin: 10% 20%;
 }
 
 button {
@@ -25,7 +25,7 @@ button {
 }
 
 #displayNumberBox {
-    background-color: green;
+    background-color: #4F6F52;
     padding: 0.5em;
     border-radius: 0.5em;
     text-align: end;
