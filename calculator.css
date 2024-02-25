@@ -6,8 +6,11 @@ body {
 .calculator {
     background-color: #4F6F52;
     padding: 1em;
-    border-radius: 1em;
+    border-radius: 2em;
     color: #ECE3CE;
+    display: inline-block;
+    width: 30%;
+    margin: 5% 35%;
 }
 
 button {
